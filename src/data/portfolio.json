@@ -1,0 +1,459 @@
+{
+  "site": {
+    "title": "Naveen Chauhan | Full Stack Developer",
+    "description": "Naveen Chauhan - Full Stack Developer (Python, FastAPI, Django, React, Next.js).",
+    "logo": "NC",
+    "footerText": "Naveen Chauhan. Built with React & Vite."
+  },
+  "theme": {
+    "default": "dark",
+    "dark": {
+      "bg": "#0b0f1a",
+      "accent1": "#6ee7f9",
+      "accent2": "#8b5cf6"
+    },
+    "light": {
+      "bg": "#f4f6fb",
+      "accent1": "#0891b2",
+      "accent2": "#7c3aed"
+    }
+  },
+  "nav": [
+    {
+      "id": "about",
+      "label": "About"
+    },
+    {
+      "id": "skills",
+      "label": "Skills"
+    },
+    {
+      "id": "experience",
+      "label": "Experience"
+    },
+    {
+      "id": "projects",
+      "label": "Projects"
+    },
+    {
+      "id": "education",
+      "label": "Education"
+    },
+    {
+      "id": "contact",
+      "label": "Contact",
+      "cta": true
+    }
+  ],
+  "profile": {
+    "name": "Naveen Chauhan",
+    "greeting": "Hello, I'm",
+    "roles": [
+      "Full Stack Developer",
+      "Python Backend Engineer",
+      "FastAPI & Django Developer",
+      "React & Next.js Developer"
+    ],
+    "intro": "Full Stack Developer with 2 years of backend development in Python (Django, FastAPI, Flask) and 1 year of MERN stack - building scalable APIs, automation services and polished front-ends.",
+    "photo": "photo.png",
+    "resume": "resume.pdf",
+    "email": "naveenc2204@gmail.com",
+    "phone": "+91 95368 39768",
+    "location": "Devprayag, Tehri Garhwal, Uttarakhand",
+    "floatingChips": [
+      "Python",
+      "FastAPI",
+      "React",
+      "Next.js"
+    ],
+    "primaryButton": {
+      "label": "View My Work",
+      "target": "projects"
+    },
+    "secondaryButton": {
+      "label": "Get in Touch",
+      "target": "contact"
+    }
+  },
+  "socials": [
+    {
+      "label": "Email",
+      "icon": "mail",
+      "url": "mailto:naveenc2204@gmail.com"
+    },
+    {
+      "label": "Phone",
+      "icon": "phone",
+      "url": "tel:+919536839768"
+    },
+    {
+      "label": "Mediadrive",
+      "icon": "external",
+      "url": "https://mediadrive.io"
+    },
+    {
+      "label": "AskLex",
+      "icon": "external",
+      "url": "https://asklex.ai"
+    }
+  ],
+  "stats": [
+    {
+      "value": 3,
+      "suffix": "+",
+      "label": "Years Experience"
+    },
+    {
+      "value": 7,
+      "suffix": "+",
+      "label": "Major Projects"
+    },
+    {
+      "value": 3,
+      "suffix": "",
+      "label": "Companies"
+    },
+    {
+      "value": 9,
+      "suffix": "+",
+      "label": "Core Technologies"
+    }
+  ],
+  "about": {
+    "paragraphs": [
+      "I'm a self-taught, highly motivated developer who loves turning business requirements into scalable, secure and high-performance web applications.",
+      "I've spent **2 years** building backend systems with Python frameworks like **Django, FastAPI and Flask**, and **1 year** on the **MERN stack**, crafting dynamic interfaces with React.js and Next.js backed by Node.js.",
+      "I enjoy designing APIs, managing databases, automating complex workflows and shipping clean, maintainable code. I'm currently pursuing my MCA while working full time."
+    ],
+    "softSkills": [
+      "Team Collaboration",
+      "Problem Solving & Debugging",
+      "Communication & Client Interaction"
+    ],
+    "factsTitle": "Quick Facts",
+    "facts": [
+      {
+        "label": "Role",
+        "value": "Full Stack Developer"
+      },
+      {
+        "label": "Location",
+        "value": "Devprayag, Uttarakhand"
+      },
+      {
+        "label": "Languages",
+        "value": "English, Hindi"
+      },
+      {
+        "label": "Studying",
+        "value": "MCA, Lovely Professional University"
+      },
+      {
+        "label": "Now at",
+        "value": "Webner Solution Pvt. Ltd."
+      }
+    ]
+  },
+  "skills": [
+    {
+      "name": "Python",
+      "level": 90
+    },
+    {
+      "name": "Django / FastAPI",
+      "level": 90
+    },
+    {
+      "name": "JavaScript",
+      "level": 85
+    },
+    {
+      "name": "React.js",
+      "level": 85
+    },
+    {
+      "name": "Next.js",
+      "level": 80
+    },
+    {
+      "name": "Node.js / Express",
+      "level": 80
+    },
+    {
+      "name": "MongoDB / Mongoose",
+      "level": 80
+    },
+    {
+      "name": "SQL / MySQL",
+      "level": 82
+    },
+    {
+      "name": "PostgreSQL",
+      "level": 80
+    }
+  ],
+  "techMarquee": [
+    "Python",
+    "Django",
+    "FastAPI",
+    "Flask",
+    "Playwright",
+    "React",
+    "Next.js",
+    "Redux Toolkit",
+    "Node.js",
+    "Express",
+    "MongoDB",
+    "PostgreSQL",
+    "MySQL",
+    "AWS SQS",
+    "AWS S3",
+    "WebRTC",
+    "WebSocket",
+    "Tailwind CSS",
+    "TypeScript",
+    "Angular"
+  ],
+  "experience": [
+    {
+      "role": "Full Stack Developer",
+      "company": "Webner Solution Pvt. Ltd.",
+      "period": "Oct 2025 - Present",
+      "description": "Building insurance browser automation services using Python, FastAPI and Playwright, with AWS-backed task processing.",
+      "stack": [
+        "Python",
+        "FastAPI",
+        "Playwright",
+        "AWS SQS",
+        "AWS S3"
+      ]
+    },
+    {
+      "role": "Full Stack Developer",
+      "company": "Vavensoft Pvt. Ltd.",
+      "period": "Sep 2024 - Oct 2025",
+      "description": "Migrated a monolith to FastAPI microservices and delivered full stack products with React, Next.js and Django.",
+      "stack": [
+        "FastAPI",
+        "React",
+        "Next.js",
+        "Django"
+      ]
+    },
+    {
+      "role": "Web Developer",
+      "company": "Codedrill Infotech Pvt. Ltd.",
+      "period": "Oct 2022 - Aug 2024",
+      "description": "Developed web applications across the MERN stack and Python frameworks, from APIs to responsive UIs.",
+      "stack": [
+        "MERN",
+        "Flask",
+        "Django",
+        "Redux"
+      ]
+    }
+  ],
+  "projectFilters": [
+    {
+      "key": "all",
+      "label": "All"
+    },
+    {
+      "key": "python",
+      "label": "Python"
+    },
+    {
+      "key": "mern",
+      "label": "MERN / React"
+    },
+    {
+      "key": "live",
+      "label": "Live"
+    }
+  ],
+  "projects": [
+    {
+      "id": "browser-automation",
+      "title": "Browser Automation",
+      "badge": "Python",
+      "categories": [
+        "python"
+      ],
+      "stack": [
+        "FastAPI",
+        "Playwright",
+        "AWS"
+      ],
+      "summary": "Scalable insurance automation services for Hastings and West Bend.",
+      "points": [
+        "Automated Home and Auto quotation workflows from login to quote generation.",
+        "Built data mapping modules turning JSON into carrier-specific portal formats.",
+        "Managed insured, homeowner, vehicle, driver, coverage and loss history data.",
+        "Integrated AWS SQS, S3 and databases for tasks, payload storage and tracking.",
+        "Added premium extraction, validation, retry logic, encrypted credentials and error reporting."
+      ]
+    },
+    {
+      "id": "app-reactful",
+      "title": "App.reactful",
+      "badge": "Microservices",
+      "categories": [
+        "python",
+        "mern"
+      ],
+      "stack": [
+        "FastAPI",
+        "React.js",
+        "Microservices"
+      ],
+      "summary": "Upgraded a monolithic WebApp2 Python app into a FastAPI microservices platform.",
+      "points": [
+        "Migrated legacy code improving performance, scalability and maintainability.",
+        "Worked across 3 services: Client Handling, Analytics and Visitor Tracking.",
+        "Enabled mirror websites with real-time visitor analytics.",
+        "Let companies host multiple websites and manage live deployments.",
+        "Built the React frontend for site creation, insights and traffic monitoring."
+      ]
+    },
+    {
+      "id": "embroideryus",
+      "title": "EmbroideryUS Textile",
+      "badge": "Marketplace",
+      "categories": [
+        "python",
+        "mern"
+      ],
+      "stack": [
+        "Next.js",
+        "Django",
+        "Redux Toolkit"
+      ],
+      "summary": "Textile marketplace where vendors bid on customer product requests.",
+      "points": [
+        "Built the Next.js frontend: UI, routing and state management.",
+        "Created a new Vendor user role in Django beyond the Customer role.",
+        "Built separate role-based dashboards for Customers and Vendors.",
+        "Implemented bidding so vendors can view requests and submit custom offers.",
+        "Used Redux Toolkit for role-based rendering and access restriction."
+      ]
+    },
+    {
+      "id": "asklex",
+      "title": "AskLex",
+      "badge": "Live",
+      "live": true,
+      "categories": [
+        "python",
+        "live"
+      ],
+      "stack": [
+        "Flask",
+        "Angular",
+        "OpenAI",
+        "Stripe"
+      ],
+      "summary": "AI-powered legal assistant with answers verified by lawyers.",
+      "points": [
+        "Integrated OpenAI for instant AI answers and Socket.io for real-time chat.",
+        "Stripe integration for secure payments.",
+        "Lawyer verification, role-based access control and a responsive Angular UI.",
+        "Optimized Flask APIs and database queries for speed and security."
+      ],
+      "link": {
+        "label": "Visit asklex.ai",
+        "url": "https://asklex.ai"
+      }
+    },
+    {
+      "id": "mediadrive",
+      "title": "Mediadrive.io",
+      "badge": "Live",
+      "live": true,
+      "categories": [
+        "python",
+        "mern",
+        "live"
+      ],
+      "stack": [
+        "Next.js",
+        "FastAPI",
+        "WebRTC"
+      ],
+      "summary": "Peer-to-peer file sharing that moves large files without server storage.",
+      "points": [
+        "WebRTC and WebSocket for secure browser-to-browser transfer.",
+        "Unique 3-phrase code system for sharing, inspired by MagicWormhole.",
+        "Custom FastAPI signaling server for handshakes and peer setup.",
+        "Clean responsive Next.js UI for selecting, uploading and downloading."
+      ],
+      "link": {
+        "label": "Visit mediadrive.io",
+        "url": "https://mediadrive.io"
+      }
+    },
+    {
+      "id": "ecommerce",
+      "title": "Ecommerce Website",
+      "badge": "MERN",
+      "categories": [
+        "mern"
+      ],
+      "stack": [
+        "React",
+        "Node",
+        "MongoDB",
+        "TypeScript"
+      ],
+      "summary": "MERN e-commerce platform with an Admin Dashboard.",
+      "points": [
+        "Redux Toolkit and RTK Query for state, Firebase for authentication.",
+        "Tailwind CSS for the UI.",
+        "Caching, custom hooks, code splitting and lazy loading for performance."
+      ]
+    },
+    {
+      "id": "attendance",
+      "title": "Attendance",
+      "badge": "MERN",
+      "categories": [
+        "mern"
+      ],
+      "stack": [
+        "React",
+        "Node",
+        "MongoDB",
+        "JWT"
+      ],
+      "summary": "Attendance portal that makes logging in and recording attendance effortless.",
+      "points": [
+        "Secure JWT authentication protecting the portal and data integrity.",
+        "Responsive React UI with lazy loading.",
+        "Efficient state management with Redux and Context API."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Computer Application",
+      "institute": "Lovely Professional University, Punjab (Distance Learning)",
+      "period": "2024 - Present"
+    },
+    {
+      "degree": "Bachelor of Computer Application",
+      "institute": "Himalayan Institute of Technology, Dehradun",
+      "period": "2019 - 2022"
+    }
+  ],
+  "contact": {
+    "text": "I'm open to new opportunities in backend and full stack development. Have a project or an idea? Let's talk.",
+    "formEndpoint": ""
+  },
+  "sectionTitles": {
+    "about": "About Me",
+    "skills": "Expertise",
+    "experience": "Experience",
+    "projects": "Major Projects",
+    "education": "Education",
+    "contact": "Get In Touch"
+  }
+}
