@@ -43,3 +43,4 @@ Put an image in `public/projects/` and add one line to the project in `portfolio
 "image": "projects/asklex.png"
 ```
 It then shows as the banner inside that project's modal.
+now install all changes
