@@ -1,0 +1,23 @@
+name: React-build
+
+on:
+  push:
+    branches: ['main']
+
+jobs:
+  react-build-vite:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4.4.0
+      - name: Setup node js
+        uses: actions/setup-node@v7.1.0
+        with:
+          node-version: 22.x
+      - name: Install dependences
+        run: npm install
+      - name: Build App
+        run: npm run build
+        
+
+      
